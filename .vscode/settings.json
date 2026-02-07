@@ -1,0 +1,11 @@
+{
+  "markdown-pdf.orientation": "landscape",
+  "markdown-pdf.margin.bottom": "0.5cm",
+  "markdown-pdf.margin.left": "0.5cm",
+  "markdown-pdf.margin.right": "0.5cm",
+  "markdown-pdf.margin.top": "0.5cm",
+  "markdown-pdf.displayHeaderFooter": false,
+  "markdown-pdf.scale": 0.75,
+  "markdown-pdf.outputDirectory": "pdf",
+  "markdown-pdf.outputDirectoryRelativePathFile": true
+}

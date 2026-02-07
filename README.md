@@ -3,4 +3,4 @@
 ## Talent Tracks
 
 * Specialization Talents
-  * [Combat](/tracks/combat.md)
+  * [Combat](/tracks/combat.md) ( [pdf](/tracks/pdf/combat.pdf) )
