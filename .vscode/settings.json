@@ -7,5 +7,6 @@
   "markdown-pdf.displayHeaderFooter": false,
   "markdown-pdf.scale": 0.75,
   "markdown-pdf.outputDirectory": "pdf",
-  "markdown-pdf.outputDirectoryRelativePathFile": true
+  "markdown-pdf.outputDirectoryRelativePathFile": true,
+  "diffEditor.wordWrap": "off"
 }
