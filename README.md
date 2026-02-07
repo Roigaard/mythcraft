@@ -2,14 +2,31 @@
 
 ## Talent Tracks
 
+* Arcane
+  * [Arcane talents](stacks/arcane.md) ([pdf](stacks/pdf/arcane.pdf))
+  * Arcane spells (TODO)
+
+* Bezerker
+  * [Juggernaut](/stacks/Juggernaut.md) ( [pdf](/stacks/pdf/Juggernaut.pdf) )  
+
+* [Mage](stacks/mage.md) ([pdf](stacks/pdf/mage.pdf))
+  * [Archmage](stacks/archmage.md) ([pdf](stacks/pdf/archmage.pdf))
+
 * Specialization Talents
+  * [Armor](/stacks/armor.md) ( [pdf](/stacks/pdf/armor.pdf) )
   * [Combat](/stacks/combat.md) ( [pdf](/stacks/pdf/combat.pdf) )
   * [Command](/stacks/command.md) ( [pdf](/stacks/pdf/command.pdf) )
-  * [Dual Wielding](/stacks/dual-single-wield.md.md) ( [pdf](/stacks/pdf/dual-single-wield.pdf) )
-  * [One-Handed](/stacks/dual-single-wield.md.md) ( [pdf](/stacks/pdf/dual-single-wield.pdf) )
+  * [Dual Wielding](/stacks/weapons.md) ( [pdf](/stacks/pdf/weapons.pdf) )
+  * [One-Handed](/stacks/weapons.md) ( [pdf](/stacks/pdf/weapons.pdf) )
+  * [Two-Handed](/stacks/weapons.md) ( [pdf](/stacks/pdf/weapons.pdf) )
+  * [Weapons](/stacks/weapons.md) ( [pdf](/stacks/pdf/weapons.pdf) )
+
+* [Troubadour](/stacks/troubadour.md) ([pdf](/stacks/pdf/troubadour.pdf))
+  * [Legend keeper](/stacks/legend-keeper.md) ( [pdf](/stacks/pdf/legend-keeper.pdf) )
+    * [Book of the Damned](/stacks/book-of-the-damned.md) ( [pdf](/stacks/pdf/book-of-the-damned.pdf) )
 
 * Warrior
   * [Archery](/stacks/archery-critical.md.md) ( [pdf](/stacks/pdf/archery_critical.pdf) )  
   * [Commander (Banner)](/stacks/commander_banner.md) ( [pdf](/stacks/pdf/commander_banner.pdf) )
   * [Commander (Command)](/stacks/commander_command.md) ( [pdf](/stacks/pdf/commander_command.pdf) )
-  * [Critical](/stacks/archery-critical.md.md) ( [pdf](/stacks/pdf/archery_critical.pdf) )
+  * [Critical](/stacks/archery-critical.md) ( [pdf](/stacks/pdf/archery_critical.pdf) )
