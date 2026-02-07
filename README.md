@@ -2,6 +2,11 @@
 
 ## Talent Tracks
 
+* Races
+  * [Dwarf](stacks/dwarf.md) ([pdf](stacks/pdf/dwarf.pdf))
+  * [Hafling](stacks/halfling.md) ([pdf](stacks/pdf/hafling.pdf))
+  * [Human](stacks/human.md) ([pdf](stacks/pdf/human.pdf))
+
 * Arcane
   * [Arcane talents](stacks/arcane.md) ([pdf](stacks/pdf/arcane.pdf))
   * Arcane spells (TODO)
