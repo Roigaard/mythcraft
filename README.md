@@ -29,6 +29,7 @@
 * [Troubadour](/stacks/troubadour.md) ([pdf](/stacks/pdf/troubadour.pdf))
   * [Legend keeper](/stacks/legend-keeper.md) ( [pdf](/stacks/pdf/legend-keeper.pdf) )
     * [Book of the Damned](/stacks/book-of-the-damned.md) ( [pdf](/stacks/pdf/book-of-the-damned.pdf) )
+    * [Creature Compendium](/stacks/creature-compendium.md) ( [pdf](/stacks/pdf/creature-compendium.pdf) )
 
 * Warrior
   * [Archery](/stacks/archery-critical.md.md) ( [pdf](/stacks/pdf/archery_critical.pdf) )  
