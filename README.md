@@ -36,3 +36,9 @@
   * [Commander (Banner)](/stacks/commander_banner.md) ( [pdf](/stacks/pdf/commander_banner.pdf) )
   * [Commander (Command)](/stacks/commander_command.md) ( [pdf](/stacks/pdf/commander_command.pdf) )
   * [Critical](/stacks/archery-critical.md) ( [pdf](/stacks/pdf/archery_critical.pdf) )
+
+## Houserule creatures
+
+* Draconians
+  * [Baaz](/creatures/draconians/baaz.md)
+  * [Kapak](/creatures/draconians/kapak.md)
